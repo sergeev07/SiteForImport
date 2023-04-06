@@ -1,0 +1,8 @@
+# Ignore dir
+tmp/
+
+# Ignore files
+*_old
+*_backup
+Thumbs.db
+.DS_Store
